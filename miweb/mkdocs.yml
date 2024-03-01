@@ -1,0 +1,10 @@
+site_name: My Web - Carlos
+
+nav:
+  - Ppal: index.md
+  - LMSGI: lmsgi.md
+  - Proyecto: public/proyecto.md
+  - Programación: public/programacion.md
+
+theme:
+    name: dracula
